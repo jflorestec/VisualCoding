@@ -6,18 +6,7 @@ import javax.swing.JTextField;
 import javax.swing.JComboBox;
 
 public class PanelOperacion extends JPanel {
-	private JTextField _Textovaloroperacion;
-
-	/**
-	 * @author Jose David
-	 * l
-	 * 
-	 * 
-	 * carajo que hago
-	 * jajajaj
-	 * ya estallo esta madre
-	 * 
-	 */
+	
 	
 	public PanelOperacion() {
 		setLayout(null);
@@ -30,6 +19,7 @@ public class PanelOperacion extends JPanel {
 		lblValorDeOperacion.setBounds(26, 53, 102, 14);
 		add(lblValorDeOperacion);
 		
+		JTextField _Textovaloroperacion;
 		_Textovaloroperacion = new JTextField();
 		_Textovaloroperacion.setBounds(143, 50, 86, 20);
 		add(_Textovaloroperacion);
