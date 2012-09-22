@@ -10,9 +10,6 @@ public class PanelOperacion extends JPanel {
 
 	/**
 	 * @author Jose David
-	 * Create the panel.
-	 *
-	 * 
 	 */
 	public PanelOperacion() {
 		setLayout(null);
