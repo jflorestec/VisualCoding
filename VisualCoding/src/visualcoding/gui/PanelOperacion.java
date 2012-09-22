@@ -9,7 +9,6 @@ public class PanelOperacion extends JPanel {
 	private JTextField _Textovaloroperacion;
 
 	/**
-	 * @author Jose David
 	 */
 	public PanelOperacion() {
 		setLayout(null);
